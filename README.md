@@ -55,16 +55,16 @@ Dataset includes:
 ## 📸 Dashboard Preview
 
 ### 🔹 Overview
-![Overview](images/overview.png)
+![Overview](Images/overview.png)
 
 ### 🔹 Product Analysis
-![Product](images/product_analysis.png)
+![Product](Images/product_analysis.png)
 
 ### 🔹 Customer Analysis
-![Customer](images/customer_analysis.png)
+![Customer](Images/customer_analysis.png)
 
 ### 🔹 Store Analysis
-![Store](images/store_analysis.png)
+![Store](Images/store_analysis.png)
 
 ---
 
@@ -79,3 +79,4 @@ This project demonstrates:
 
 ## 📌 Author
 Jatin Sharma
+
