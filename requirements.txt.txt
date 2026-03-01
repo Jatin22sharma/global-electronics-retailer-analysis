@@ -1,0 +1,4 @@
+1. Global + Electronics + Retailer dataset from Maven Analytics
+2. VS code / Google Colab
+3. Python (Pandas)
+4. Power BI / Tableau
